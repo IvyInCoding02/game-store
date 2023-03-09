@@ -1,0 +1,17 @@
+.header__wrapper{
+    height: 90px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header__logo{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: serif, sans-serif;
+}
+
+.header__cart{
+    font-size: 25px;
+}
